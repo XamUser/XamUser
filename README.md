@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Xamuyee! You can call me Sam! </h1>
+
+<h2> Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/xamcybertest/LABURL)
+
+<h2>Certifications</h2>
+
+- Google Cybersecurity Certification (in progress)
+
+
+<h2>Contacts</h2>
+
 
 <!--
-**XamUser/XamUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
